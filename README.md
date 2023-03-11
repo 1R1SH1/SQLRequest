@@ -1,1 +1,1 @@
-# SQLRequest
+Simple SQL request to choose products with categories
